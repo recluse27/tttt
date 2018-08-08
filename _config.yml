@@ -1,22 +1,25 @@
 
 title: My Resume
-url: 'http://junlulocky.com'
-baseurl: '/PanelCV' #change it according to your repository name
+url: 'https://recluse27.github.io'
+baseurl: '/tttt' #change it according to your repository name
 
 
 
 # Profile information
-yourname: Brown Smith  ## put your name
-title: 'GRAPHIC &amp; WEB DESIGNER'  ## your title
-location: San Francisco , CA
+yourname: Vitalii Lazuka  ## put your name
+title: 'Data Scientist &amp; Software Engineer'  ## your title
+location: Fremont, CA
 
 
 ## Social Profiles
-facebook: http://www.facebook.com  ## your facebook account url
-twitter: http://www.twitter.com  ## your twitter account url
-linkedin: http://www.linkedin.com  ## your linkedin account url
-dribbble: http://www.dribble.com  ## you dribbble account url
-foursquare: http://www.foursquare.com  ## your foursquare account url
+# facebook: http://www.facebook.com  ## your facebook account url
+# twitter: http://www.twitter.com  ## your twitter account url
+linkedin: http://www.linkedin.com/vitaliilazuka  ## your linkedin account url
+github: https://github.com/recluse27
+kaggle: https://www.kaggle.com/evrial97
+hackerrank: https://www.hackerrank.com/lazukav
+# dribbble: http://www.dribble.com  ## you dribbble account url
+# foursquare: http://www.foursquare.com  ## your foursquare account url
 
 
 
